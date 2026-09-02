@@ -64,13 +64,7 @@ I'm a B.Tech Computer Science graduate (AI & ML specialization, CGPA 8.73) who b
 
 ---
 
-### 📊 GitHub Stats
 
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=babiazees007&show_icons=true&count_private=true)
-
-
----
 
 ### 🎓 Certifications & Learning
 
