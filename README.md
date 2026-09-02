@@ -66,14 +66,9 @@ I'm a B.Tech Computer Science graduate (AI & ML specialization, CGPA 8.73) who b
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babiazees007&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babiazees007" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babiazees007&layout=compact" height="165"/>
-</p>
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=babiazees007&show_icons=true&count_private=true)
+
 
 ---
 
